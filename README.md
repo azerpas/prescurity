@@ -1,7 +1,7 @@
 # Prescurity
 
-- [Front-end / Back-end instructions](https://github.com/azerpas/prescurity-dashboard)
-- [Blockchain instructions](https://github.com/azerpas/prescurity-blockchain)
+- [Front-end / Back-end](https://github.com/azerpas/prescurity-dashboard)
+- [Blockchain](https://github.com/azerpas/prescurity-blockchain)
 
 ## Goal
 Prescurity is a school project created for the EFREI Master Camp.   
